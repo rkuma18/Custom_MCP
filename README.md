@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 🗒️ AI Sticky Notes (MCP App)
