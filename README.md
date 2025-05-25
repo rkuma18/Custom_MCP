@@ -1,5 +1,3 @@
-Here’s a clean, professional `README.md` for your `AI Sticky Notes` project using MCP:
-
 ---
 
 ```markdown
@@ -132,14 +130,3 @@ Perfect for:
 MIT License
 
 ---
-
-## ✍️ Author
-
-Built with ❤️ by \[Your Name]
-
----
-
-```
-
-Let me know if you’d like it customized with instructions for deploying to Hugging Face, integrating with OpenAI tools, or extending functionality (e.g., deleting notes or tagging them).
-```
