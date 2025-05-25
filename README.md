@@ -1,5 +1,4 @@
 
-```markdown
 # 🗒️ AI Sticky Notes (MCP App)
 
 **AI Sticky Notes** is a simple tool built with [MCP (Multi-Modal Command Protocol)](https://github.com/openai/mcp) that allows users to save, read, and summarize sticky notes through tool and resource calls. This server provides endpoints for interacting with a file-based notes system using an AI interface.
